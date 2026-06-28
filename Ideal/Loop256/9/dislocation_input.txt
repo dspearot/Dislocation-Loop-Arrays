@@ -1,0 +1,2305 @@
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	25d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	25d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	25d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	25d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	25d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	25d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	25d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	25d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	25d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	25d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	25d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	25d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	25d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	25d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	25d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	25d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	50d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	50d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	50d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	50d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	50d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	50d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	50d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	50d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	50d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	50d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	50d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	50d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	50d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	50d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	50d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	50d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	75d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	75d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	75d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	75d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	75d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	75d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	75d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	75d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	75d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	75d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	75d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	75d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	75d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	75d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	75d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	75d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	100d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	100d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	100d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	100d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	100d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	100d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	100d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	100d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	100d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	100d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	100d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	100d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	100d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	100d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	100d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	100d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	125d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	125d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	125d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	125d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	125d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	125d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	125d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	125d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	125d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	125d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	125d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	125d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	125d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	125d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	125d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	125d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	150d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	150d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	150d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	150d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	150d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	150d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	150d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	150d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	150d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	150d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	150d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	150d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	150d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	150d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	150d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	150d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	175d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	175d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	175d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	175d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	175d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	175d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	175d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	175d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	175d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	175d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	175d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	175d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	175d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	175d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	175d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	175d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	200d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	200d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	200d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	200d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	200d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	200d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	200d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	200d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	200d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	200d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	200d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	200d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	200d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	200d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	200d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	200d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	225d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	225d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	225d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	225d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	225d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	225d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	225d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	225d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	225d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	225d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	225d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	225d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	225d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	225d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	225d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	225d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	250d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	250d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	250d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	250d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	250d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	250d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	250d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	250d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	250d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	250d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	250d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	250d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	250d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	250d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	250d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	250d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	275d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	275d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	275d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	275d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	275d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	275d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	275d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	275d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	275d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	275d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	275d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	275d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	275d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	275d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	275d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	275d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	300d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	300d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	300d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	300d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	300d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	300d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	300d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	300d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	300d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	300d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	300d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	300d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	300d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	300d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	300d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	300d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	325d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	325d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	325d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	325d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	325d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	325d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	325d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	325d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	325d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	325d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	325d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	325d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	325d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	325d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	325d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	325d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	350d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	350d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	350d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	350d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	350d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	350d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	350d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	350d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	350d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	350d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	350d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	350d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	350d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	350d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	350d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	350d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	375d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	375d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	375d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	375d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	375d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	375d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	375d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	375d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	375d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	375d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	375d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	375d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	375d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	375d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	375d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	375d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	400d0	25d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	400d0	50d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	400d0	75d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	400d0	100d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	400d0	125d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	400d0	150d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	400d0	175d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	400d0	200d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	400d0	225d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	400d0	250d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	400d0	275d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	400d0	300d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	0.0d0	-0.5d0	-0.5d0
+Origin:	400d0	325d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.0d0	0.5d0	-0.5d0
+Origin:	400d0	350d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	1.0d0
+Burgers:	0.5d0	0.0d0	-0.5d0
+Origin:	400d0	375d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+Position:	Defined		
+Layer:	1		
+Grain:	1		
+Type:	3		
+Miller:	1.0d0	1.0d0	-1.0d0
+Burgers:	-0.5d0	0.0d0	-0.5d0
+Origin:	400d0	400d0	400.0d0
+Properties:	1.0d0	10.0d0	10.0d0
+			
+ENDDEFECT			
